@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "H:\\Anaconda3\\envs\\spam_detector\\python.exe",
+    "python.formatting.provider": "black"
+}
